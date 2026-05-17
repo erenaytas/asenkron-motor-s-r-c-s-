@@ -1,0 +1,1 @@
+# asenkron-motor-s-r-c-s-
