@@ -1,1 +1,1 @@
-# asenkron-motor-s-r-c-s-
+# Electric_Machines_Design
